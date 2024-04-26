@@ -4,7 +4,7 @@
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
 ## Descripton Project
-- A beautiful, full-responsive store `CMS` for all sizes on any device with React JS
+- A beautiful, full-responsive store `CMS` for all sizes on any device with <img src="https://img.shields.io/badge/React Js-333333?style=flat&logo=react" alt="React">
 
 - Fully optimized and cleanly programmed, and the principle of being a base component in this project is respected. 
 
