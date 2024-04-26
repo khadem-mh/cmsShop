@@ -40,7 +40,7 @@
 
 ## View of the project
 ### Panel-Admin
-<img src="./Other/Videos/view/admin.gif" width="500px"/>
+<img src="./Other/Videos/view/admin.gif" width="750px"/>
 
 ## Getting Started
 
