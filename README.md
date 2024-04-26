@@ -6,11 +6,19 @@
 ## Descripton Project
 - A beautiful, full-responsive store `CMS` for all sizes on any device with <img src="https://img.shields.io/badge/React Js-333333?style=flat&logo=react" alt="React">
 
-- Fully optimized and cleanly programmed, and the principle of being a base component in this project is respected. 
+- This `CMS` has various capabilities such as removal، add، update، taking information of various sections such as orders، users، discounts and remove or add administrator and ...
 
-- This way, you no longer need to validate the server-side validation, which means that you are following the DRY (Don Repeat Yourself) rule.
+- This `CMS` is responsive from the width of the phone to the large screen, or even with the height of the screen is responsive
 
-- This form is very flexible in terms of customization.
+- Fully optimized and cleanly programmed and follows the `DRY` rule during the project
+
+- On the main page of the `CMS` all the details of the website can be seen at a glance
+
+- Website revenue is announced from the beginning of the month to the end of the same month.
+
+- The latest registered users, non-existent products and the most buyers of the products of the website are reported on the home page
+
+- One of the main advantages of this `CMS` is that it is completely dynamic and dynamic when something is updated does not refresh the page. 
 
 >### Languages
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=5BCAF7&random=false&width=100&height=25&lines=React+Js)
