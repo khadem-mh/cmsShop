@@ -26,9 +26,9 @@
 >> 
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=skyblue&random=false&width=150&height=25&lines=React+Icons)
 >> 
->> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=CB58F7FF&random=false&width=150&height=25&lines=React+BootStrap)
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=702CF6&random=false&width=150&height=25&lines=React+BootStrap)
 >> 
->> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=red&random=false&width=150&height=25&lines=React+Router-Dom)
+>> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=React+Router-Dom)
 
 ## View of the project
 
