@@ -1,0 +1,33 @@
+.page-404 {
+    text-align: center;
+    background-color: #FFFFFF !important;
+    border-radius: 2rem;
+    padding: 1rem;
+    width: 100%;
+}
+
+.page-404 img {
+    margin-top: 2rem;
+    width: 482px !important;
+}
+
+.page-404 h1 {
+    font-size: 10rem;
+}
+
+.page-404 h3 {
+    font-size: 3rem;
+}
+
+@media screen and (max-width: 609px) {
+    .page-404 img {
+        width: inherit !important;
+    }
+    .page-404 h1 {
+        font-size: 6rem;
+    }
+    
+    .page-404 h3 {
+        font-size: 2rem;
+    }
+}

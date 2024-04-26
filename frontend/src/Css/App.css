@@ -1,0 +1,178 @@
+@import "./medias.css";
+
+.App {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 4rem;
+}
+
+.content-middle-cms {
+    width: calc(100% - 288px);
+    padding: 0 1.5rem;
+}
+
+.products-title {
+    font-size: 2rem;
+    color: var(--black);
+}
+
+.parent-table {
+    overflow-x: auto;
+    box-shadow: 0 0 10px var(--gray);
+    border-radius: 1rem;
+    margin: 3rem 0;
+}
+
+/*! Tables Styles*/
+table {
+    background-color: var(--white);
+    width: 100%;
+    border-radius: 1.5rem;
+    overflow: hidden;
+}
+
+thead tr {
+    background-color: var(--blue-50) !important;
+    color: var(--white-btn-color) !important;
+    font-size: 1.6rem;
+    text-shadow: 5px 3px 1px var(--gray);
+    text-align: center;
+}
+
+thead tr th {
+    padding: 1rem 1.5rem !important;
+}
+
+tbody tr {
+    transition: all 400ms;
+    border-bottom: 1px solid lightgray;
+}
+
+tbody tr td {
+    font-size: 1.4rem;
+    color: var(--black);
+}
+
+th,
+td {
+    padding: 1.5rem;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/*! Modals Style */
+.modal-parent {
+    position: fixed;
+    top: 0;
+    z-index: 9999 !important;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.4s;
+}
+
+.modal-parent.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.cms-table {
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: var(--white);
+}
+
+.cms-table tr {
+    text-align: center;
+}
+
+.cms-table th,
+.cms-table td {
+    padding: 20px;
+    
+}
+
+.form-select {
+    padding: 0.375rem 3.6rem 0.375rem 0.75rem;
+    color: gray;
+    background-color: #f4f4f4;
+    background-position: right 1.25rem center;
+    border: none !important;
+    border-radius: 1rem;
+    height: 2.7rem;
+    cursor: pointer;
+    margin-top: .6rem;
+}
+
+.edit-products-form-group span svg,  .edit-products-form-group span{
+    color: black;
+}
+
+/* add component */
+
+.com-title {
+    font-size: 2rem;
+}
+
+.com-main {
+    margin: 60px 0;
+    color: var(--black);
+}
+
+.add-com-form {
+    margin-top: 30px;
+    background: var(--white);
+    box-shadow: 0 0 10px var(--gray);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.add-com-form-wrap {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 15px;
+}
+
+.add-com-form-group {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 0 20px;
+    border-radius: 10px;
+    margin: .2rem 0;
+}
+
+.add-com-form-group svg,
+.add-com-form-group {
+    color: #000 !important;
+}
+
+.add-com-input {
+    outline: none;
+    border: none;
+    background: unset;
+    padding: 8px 10px;
+    font-size: 1.1rem;
+    width: 100%;
+}
+
+.add-com-submit {
+    background-color: var(--blue-50);
+    color: var(--white-btn-color);
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border-radius: 10px;
+}

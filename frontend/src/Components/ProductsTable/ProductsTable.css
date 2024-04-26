@@ -1,0 +1,14 @@
+.products-table-img {
+    width: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.products-table-btn {
+    padding: 8px 20px;
+    font-size: 1.1rem;
+    border-radius: 10px;
+    color: var(--white-btn-color);
+    background-color: var(--blue-50);
+    margin-right: 20px;
+}

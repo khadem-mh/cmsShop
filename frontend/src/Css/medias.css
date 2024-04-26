@@ -1,0 +1,48 @@
+@media screen and (max-width: 1200px) {
+    .content-middle-cms {
+        width: calc(100% - 150px) !important;
+        padding: 0 1rem !important;
+    }
+}
+
+@media screen and (max-height: 525px) {
+    .content-middle-cms {
+        width: 90% !important;
+    }
+}
+
+@media screen and (max-height: 525px),
+(max-width: 800px) {
+    .content-middle-cms {
+        width: calc(100% - 60px) !important;
+    }
+}
+/* add component */
+@media screen and (max-width: 900px) {
+    .com-title {
+        font-size: 1.7rem;
+    }
+
+    .add-com-input {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .add-com-form-wrap {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .add-com-form-group {
+        margin: .3rem 0;
+    }
+
+    .add-com-input {
+        margin: .3rem 0;
+    }
+
+    .add-com-submit {
+        margin-top: 2rem;
+    }
+}

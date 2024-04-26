@@ -1,0 +1,17 @@
+@media screen and (max-width: 1472px) {
+    tbody tr td, .products-table-btn {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width: 1398px) {
+    .products-table-btn:last-child {
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width: 1206px) {
+    .products-table-btn {
+        margin-top: 1rem;
+    }
+}

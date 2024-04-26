@@ -1,0 +1,34 @@
+@import './reset.css';
+
+@font-face {
+    font-family: Lalezar;
+    src: url('../../public/fonts/Lalezar-Font/TTF/Lalezar-Regular.ttf');
+}
+
+:root {
+    --white: #fff;
+    --white-50: #f0f0f0;
+    --black: rgb(10, 11, 12);
+    --white-btn-color: #fff;
+    --blue: #0E2338;
+    --blue-50: #233d4a;
+    --gray: #ababab;
+}
+
+.light-mode {
+    --white: rgb(30, 31, 51);
+    --white-50: rgb(18, 18, 30);
+    --black: #fff;
+}
+
+body {
+    background-color: var(--white-50);
+    direction: rtl;
+    overflow-x: hidden;
+}
+
+*,
+body,
+html {
+    font-family: Lalezar;
+}

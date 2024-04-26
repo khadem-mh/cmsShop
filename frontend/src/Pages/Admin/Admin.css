@@ -1,0 +1,19 @@
+.container-table-admin {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img-admin-page {
+    z-index: -1000 !important;
+    user-select: none;
+    width: 382px;
+    border-radius: 1rem;
+    box-shadow: -50px -50px 15px rgb(55, 56, 57), -150px -150px 25px lightgrey, -250px -250px 35px gray, -350px -350px 45px rgb(87, 87, 87), -450px -450px 55px rgb(55, 56, 57) ;
+}
+
+@media screen and (max-width: 1499px) {
+    .container-table-admin {
+       flex-direction: column;
+    }
+}

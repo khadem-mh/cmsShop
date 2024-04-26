@@ -1,0 +1,36 @@
+@media screen and (max-width: 1415px) {
+
+    .box-info-small {
+        flex-direction: column;
+    }
+
+    .box-infos-home-sale {
+        margin-bottom: 0 !important;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .wellcom-back-admin-title {
+        font-size: 1.2rem;
+        margin-bottom: 3rem;
+    }
+
+    .wellcom-back-admin-title strong {
+        font-size: 1.4rem;
+    }
+
+    .box-infos-home p {
+        font-size: 1.1rem;
+    }
+
+    .box-infos-home >
+    .title-pr {
+        font-size: 1.3rem;
+    }
+
+    .products-title {
+        font-size: 1.7rem;
+    }
+
+}

@@ -1,0 +1,120 @@
+.parent-header {
+    width: 100%;
+    padding: 1rem 0; 
+    z-index: 10000000 !important;
+}
+
+.header {
+    padding: .3rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.admin-profile {
+    display: flex;
+    align-items: center;
+    z-index: 9999 !important;
+}
+
+.admin-profile img {
+    width: 50px;
+    border-radius: 1rem;
+}
+
+.admin-profile div {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    margin-right: 0.5rem;
+}
+
+.admin-profile div h1 {
+    font-size: 1.2rem;
+    color: var(--black) !important;
+}
+
+.admin-profile div h3 {
+    color: var(--gray);
+}
+
+.header-left-section {
+    display: flex;
+    column-gap: 20px;
+    justify-content: flex-end;
+}
+
+.search-box {
+    background-color: #fff;
+    border-radius: 15px;
+    width: 400px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0 0 5px;
+    box-shadow: 0 0 20px var(--gray);
+    transition: all 400ms;
+}
+
+.search-box input {
+    outline: none;
+    border: none;
+    background: unset;
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 10px 20px 10px 10px;
+}
+
+.search-box button {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    width: 155px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: var(--blue-50);
+    color: var(--white-btn-color);
+    padding: 3px 20px;
+    cursor: pointer;
+    transition: all 400ms;
+}
+
+.search-box button:hover,
+.header-left-icon:hover {
+    color: var(--gray);
+}
+
+.header-left-icon {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: var(--blue-50);
+    color: var(--white-btn-color);
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 0 20px var(--gray);
+    cursor: pointer;
+    transition: all 400ms;
+}
+
+.header-icon {
+    font-size: 1rem;
+}
+
+.parent-checkbox-remmeber {
+    display: flex;
+    align-items: center;
+    padding-right: 1rem;
+    margin-top: 1rem;
+}
+
+.text-remmember {
+    padding-right: .5rem;
+}
+
+a {
+    text-decoration: none;
+}

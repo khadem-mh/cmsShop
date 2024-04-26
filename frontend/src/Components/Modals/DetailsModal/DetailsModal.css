@@ -1,0 +1,16 @@
+.details-modal {
+    padding: 30px;
+    border-radius: 1rem;
+    background-color: var(--white);
+    font-size: 1.3rem;
+}
+
+.cms-table {
+    margin-top: 0 !important;
+}
+
+thead tr {
+    background-color: transparent;
+    color: var(--black);
+    text-shadow: 0px 0px 10px gray;
+}

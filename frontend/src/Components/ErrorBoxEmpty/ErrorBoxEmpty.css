@@ -1,0 +1,17 @@
+.parent-err-msg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: inherit !important;
+    height: 2rem;
+    background-color: brown;
+    box-shadow: 0 0 10px gray;
+    border-radius: .6rem;
+    padding: 2.5rem;
+    width: 100% !important;
+}
+
+.err-msg {
+    font-size: 2rem;
+    color: white;
+}

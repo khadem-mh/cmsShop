@@ -1,0 +1,44 @@
+.container-home-page {
+    color: var(--black);
+}
+
+.box-info-small {
+    display: flex;
+    align-items: center ;
+    justify-content: space-evenly;
+}
+
+.wellcom-back-admin-title {
+    font-size: 1.3rem;
+    margin-bottom: 3rem;
+}
+
+.wellcom-back-admin-title strong {
+    color: var(--gray) !important;
+    font-size: 1.6rem;
+}
+
+.box-infos-home >
+.title-pr {
+    font-size: 1.5rem;
+}
+
+.box-infos-home {
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px lightgray;
+    padding: 1rem;
+    margin: 3rem 0;
+}
+
+.box-infos-home p {
+    font-size: 1.3rem;
+    margin-top: 2rem !important;
+    margin-bottom: 0 !important;
+    padding-right: 2rem;
+    color: gray;
+}
+
+.span-price-home {
+    color: blue;
+}
