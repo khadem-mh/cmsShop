@@ -45,12 +45,6 @@
 ### Page-Home
 <img src="./Other/Videos/view/home.gif" width="750px"/>
 
-### Page-Products
-<img src="./Other/Videos/view/product-page.gif" width="750px"/>
-
-### Show Responsive all Pages
-<img src="./Other/Videos/view/responsive.gif" width="750px"/>
-
 ## Getting Started
 
 Before running the project, it is necessary to install npm on your system, then you can put the following command in the path of the project
