@@ -48,24 +48,6 @@
 ### Page-Products
 <img src="./Other/Videos/view/product-page.gif" width="750px"/>
 
-### Page-Users
-<img src="./Other/Videos/view/user.gif" width="750px"/>
-
-### Page-Comments
-<img src="./Other/Videos/view/comment.gif" width="750px"/>
-
-### Page-Orders
-<img src="./Other/Videos/view/order.gif" width="750px"/>
-
-### Page-Offs
-<img src="./Other/Videos/view/off.gif" width="750px"/>
-
-### Logout
-<img src="./Other/Videos/view/logout.gif" width="750px"/>
-
-### Login
-<img src="./Other/Videos/view/login.gif" width="750px"/>
-
 ### Show Responsive all Pages
 <img src="./Other/Videos/view/responsive.gif" width="750px"/>
 
