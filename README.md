@@ -3,7 +3,7 @@
 # <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
  <p align="center"> React Js expert and FrontEnd Developer from Iran.</p>
 
-## Descripton Project
+## Description Project
 - A beautiful, full-responsive store `CMS` for all sizes on any device with <img src="https://img.shields.io/badge/React Js-333333?style=flat&logo=react" alt="React">
 
 - This `CMS` has various capabilities such as removal، add، update، taking information of various sections such as orders، users، discounts and remove or add administrator and ...
