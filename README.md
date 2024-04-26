@@ -39,8 +39,35 @@
 >> ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=5000&color=F77F1A&random=false&width=150&height=25&lines=React+Router-Dom)
 
 ## View of the project
+### Panel-Admin
+<img src="./Other/Videos/view/admin.gif" width="750px"/>
 
-<img src="./public/FolderShowTemplateProject/vid.gif" width="350px"/>
+### Page-Home
+<img src="./Other/Videos/view/home.gif" width="750px"/>
+
+### Page-Products
+<img src="./Other/Videos/view/product-page.gif" width="750px"/>
+
+### Page-Users
+<img src="./Other/Videos/view/user.gif" width="750px"/>
+
+### Page-Comments
+<img src="./Other/Videos/view/comment.gif" width="750px"/>
+
+### Page-Orders
+<img src="./Other/Videos/view/order.gif" width="750px"/>
+
+### Page-Offs
+<img src="./Other/Videos/view/off.gif" width="750px"/>
+
+### Logout
+<img src="./Other/Videos/view/logout.gif" width="750px"/>
+
+### Login
+<img src="./Other/Videos/view/login.gif" width="750px"/>
+
+### Show Responsive all Pages
+<img src="./Other/Videos/view/responsive.gif" width="750px"/>
 
 ## Getting Started
 
