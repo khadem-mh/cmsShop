@@ -42,9 +42,6 @@
 ### Panel-Admin
 <img src="./Other/Videos/view/admin.gif" width="750px"/>
 
-### Page-Home
-<img src="./Other/Videos/view/home.gif" width="750px"/>
-
 ### Show Responsive Page
 <img src="./Other/Videos/view/responsive.gif" width="750px"/>
 
