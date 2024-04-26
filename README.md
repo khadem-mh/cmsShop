@@ -50,9 +50,18 @@
 
 ## Getting Started
 
-Before running the project, it is necessary to install npm on your system, then you can put the following command in the path of the project
 
-and after installing the related packages run the project.
+First of all, you need to have the wamp server and Node.Js installed on your system before you see these links. 
+
+>[wamp server](https://www.wampserver.com/en/download-wampserver-64bits/)
+>
+>[node js](https://nodejs.org/en/download)
+
+Before running the project, you need to have npm installed on your system, then you can set the following commands in the project path.
+
+If you have node.js installed it will automatically install npm
+
+After ensuring the installation of the mentioned items, enter the following commands in the direction of the project.
 
 ```
 > npm install
