@@ -42,6 +42,15 @@
 ### Panel-Admin
 <img src="./Other/Videos/view/admin.gif" width="750px"/>
 
+### Page-Home
+<img src="./Other/Videos/view/home.gif" width="750px"/>
+
+### Show Responsive Page
+<img src="./Other/Videos/view/responsive.gif" width="750px"/>
+
+### Login
+<img src="./Other/Videos/view/login.gif" width="750px"/>
+
 ## Getting Started
 
 Before running the project, it is necessary to install npm on your system, then you can put the following command in the path of the project
