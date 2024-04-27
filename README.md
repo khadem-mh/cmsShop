@@ -61,15 +61,46 @@ Before running the project, you need to have npm installed on your system, then 
 
 If you have node.js installed it will automatically install npm
 
+`In addition, if you want to run the project faster, ignore the following commands and go to the Other > Videos > setting folder and proceed according to the videos`
+
 After ensuring the installation of the mentioned items, enter the following commands in the direction of the project.
 
+### Step-1
+
+Run wamp server and then display the green icon of the software to `http://localhost/phpmyadmin/` address and enter the `root` word in the Username field and hit the login button to run the program
+
+### Step-2
+
+Then, after entering the mySql environment in the left panel, click on the New option and in the Create database, `sabzlearn_shop` the name of the database and in the front box, select this option `utf8mb3_persian_ci` considering that the cms is Persian, and click on create to create the database
+
+### Step-3
+
+Then click on import in the navigation menu above and in the File to import section select the files that were in the project SQL folder in order and click on the import button
+
+### Step-4
+
+Now it's time to select and import the project folder in the coding environment
+
+### Step-5
+
+Open a new terminal on the main path of the project and then enter this command
+
 ```
-> npm install
+> cd backend
 ```
-OR
+
+Then install the corresponding packages with the following command
+
 ```
-> npm i
+> backend > npm i
 ```
+
+After installing the packages, enter the following command to run the project backend
+
+```
+> backend > npm run start
+```
+
 
 Then, after you finish installing the packages, run this command to start your React program.
 
