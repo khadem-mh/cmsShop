@@ -1,5 +1,4 @@
-# <p align="center"> Hi there 👋 I'm Mohammad Hossein 👨‍💻 </p>
-<p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS and FrontEnd Web Developer.</p>
+# <p align="center">Hi 👋 I'm an expert on React Js 👨‍💻 Next JS</p>
 
 ## Description Project
 - A beautiful, full-responsive store CMS for all sizes on any device with <img src="https://img.shields.io/badge/React Js-333333?style=flat&logo=react" alt="React">
